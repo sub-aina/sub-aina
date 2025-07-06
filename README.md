@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Subaina</h1>
 <p align="center">
-  💻 Frontend Developer | 🎨 UI/UX Designer | 🌱 MERN Stack Explorer  
+  💻 Frontend Developer | 🎨 UI/UX Designer | 🌱 MERN Stack Developer
 </p>
 
 ---

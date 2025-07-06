@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Subaina</h1>
 <p align="center">
-  💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🌱 MERN Stack Explorer  
+  💻 Frontend Developer | 🎨 UI/UX Designer | 🌱 MERN Stack Explorer  
 </p>
 
 ---
@@ -36,11 +36,8 @@ I'm a CS student
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sub-aina)
-- 💌 Email: subainamonib@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/subaina-munib-163468287/)
+- 💌 Email: subainamonib3@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sub-aina&show_icons=true&theme=tokyonight" />
-</p>

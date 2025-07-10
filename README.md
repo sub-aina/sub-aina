@@ -31,8 +31,8 @@ I'm a CS student
 - 🎧 [Spotify Music Player](https://github.com/sub-aina/DroptheDB.git)  
   A custom player powered by Spotify APIs, supporting playback, likes, and search.
 
----Sudoku (https://github.com/sub-aina/sudoku.git)
-Made in Assembly language
+- Sudoku (https://github.com/sub-aina/sudoku.git)
+   Made in Assembly language
 
 ### 📫 Let's Connect
 

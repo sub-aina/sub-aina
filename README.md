@@ -26,13 +26,13 @@ I'm a CS student
 
 ### 📌 Featured Projects
 
-- 📅 [University Timetable Clash Detector](https://github.com/sub-aina/timetable-clash-ui)  
-  Detects overlapping courses and visualizes them with a custom-built React heatmap.
 
-- 🎧 [Spotify Music Player](https://github.com/sub-aina/spotify-player)  
+
+- 🎧 [Spotify Music Player](https://github.com/sub-aina/DroptheDB.git)  
   A custom player powered by Spotify APIs, supporting playback, likes, and search.
 
----
+---Sudoku (https://github.com/sub-aina/sudoku.git)
+Made in Assembly language
 
 ### 📫 Let's Connect
 

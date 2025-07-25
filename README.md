@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 I'm a CS student 
-- 🔭 Currently working on: **Collab Hub web app for all your projects and teamwork**
+- 🔭 Currently working on: **Syncro web app for all your projects and teamwork**
 - 💡 Exploring: **Advanced React patterns, Tailwind CSS, and system design**
 - 🌐 I like turning creative ideas into live, working interfaces
 

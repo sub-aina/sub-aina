@@ -1,18 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Subaina</h1>
 <p align="center">
-  💻 Frontend Developer | 🎨 UI/UX Designer | 🌱 MERN Stack Developer
+  💻Full Stack Developer |  UI/UX Designer 
 </p>
 
 ---
 
-### 🚀 About Me
 
-I'm a CS student 
-- 🔭 Currently working on: **Syncro web app for all your projects and teamwork**
-- 💡 Exploring: **Advanced React patterns, Tailwind CSS, and system design**
-- 🌐 I like turning creative ideas into live, working interfaces
-
----
 
 ### 🛠️ Tech Stack
 
